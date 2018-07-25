@@ -1,0 +1,42 @@
+body{
+	margin:0;
+}
+
+header {
+	background:#807E7E;
+	color:black;
+	padding-bottom: 4px;
+}
+header h1{
+	background:#656565;
+	font-size: 240%;
+	margin:0;
+	padding-left: 5px;
+	padding-right: 10px;
+	padding-bottom:5px;
+	display:inline;
+
+}
+nav ul{
+	background:#807E7E;
+	margin:0;
+	display:inline;
+
+}
+nav ul li {
+	background:#807E7E;
+	font-size:125%;
+	color:white;
+	display:inline-block;
+	text-align: center;
+	list-style-type:none;
+	padding:4px:0px;
+	margin:3px;
+}
+nav ul li a{
+	color: white;
+}
+footer{
+	clear:both;
+}
+
