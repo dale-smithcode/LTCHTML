@@ -1,1 +1,5 @@
-Testing
+======================================================
+Version 0.000.001
+=====================================================
+-Added basic CSS nav bar
+-No links yet but they're ready to be created
